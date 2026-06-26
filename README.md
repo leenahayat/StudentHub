@@ -15,13 +15,14 @@ Built at DecodeLabs • Batch 2026
 
 ### 💻 Desktop Version
 
-https://github.com/leenahayat/StudentHub/blob/main/Project2DV.mp4?raw=true
+https://github.com/user-attachments/assets/51a25cb7-73d7-4fc8-b543-5f6d661ca294
 
 ---
 
 ### 📱 Mobile Version
 
-https://github.com/leenahayat/StudentHub/blob/main/Project2MV.mp4?raw=true
+https://github.com/user-attachments/assets/4eae74e2-ba34-4e26-af6e-8395db19d571
+
 
 ---
 
