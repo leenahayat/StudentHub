@@ -1,0 +1,16 @@
+{
+    "name": "decodelab-fullstack",
+    "version": "1.0.0",
+    "description": "StudentHub - Task Manager for DecodeLabs",
+    "main": "Backend/server.js",
+    "scripts": {
+        "start": "node Backend/server.js",
+        "dev": "nodemon Backend/server.js"
+    },
+    "dependencies": {
+        "express": "^4.18.2"
+    },
+    "devDependencies": {
+        "nodemon": "^3.0.0"
+    }
+}
